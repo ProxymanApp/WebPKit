@@ -1,0 +1,851 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.WebPKit-arm64-apple-macosx16.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/sources",
+      "importPath" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Core/CGImage+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/NSImage+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/UIImage+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/Data+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/URL+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Core/CGImage+WebPEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/NSImage+WebPEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/UIImage+WebPEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Utilities/CGImage+PixelFormat.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/sharpyuv/sharpyuv.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/sharpyuv/sharpyuv_cpu.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/sharpyuv/sharpyuv_csp.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/sharpyuv/sharpyuv_dsp.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/sharpyuv/sharpyuv_gamma.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/sharpyuv/sharpyuv_neon.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/sharpyuv/sharpyuv_sse2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dec/alpha_dec.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dec/buffer_dec.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dec/frame_dec.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dec/idec_dec.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dec/io_dec.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dec/quant_dec.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dec/tree_dec.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dec/vp8_dec.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dec/vp8l_dec.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dec/webp_dec.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/demux/anim_decode.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/demux/demux.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/alpha_processing.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/alpha_processing_mips_dsp_r2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/alpha_processing_neon.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/alpha_processing_sse2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/alpha_processing_sse41.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/cost.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/cost_mips32.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/cost_mips_dsp_r2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/cost_neon.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/cost_sse2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/cpu.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/dec.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/dec_clip_tables.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/dec_mips32.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/dec_mips_dsp_r2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/dec_msa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/dec_neon.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/dec_sse2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/dec_sse41.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/enc_mips32.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/enc_mips_dsp_r2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/enc_msa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/enc_neon.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/enc_sse2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/enc_sse41.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/filters.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/filters_mips_dsp_r2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/filters_msa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/filters_neon.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/filters_sse2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/lossless.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/lossless_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/lossless_enc_mips32.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/lossless_enc_mips_dsp_r2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/lossless_enc_msa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/lossless_enc_neon.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/lossless_enc_sse2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/lossless_enc_sse41.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/lossless_mips_dsp_r2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/lossless_msa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/lossless_neon.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/lossless_sse2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/lossless_sse41.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/rescaler.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/rescaler_mips32.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/rescaler_mips_dsp_r2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/rescaler_msa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/rescaler_neon.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/rescaler_sse2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/ssim.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/ssim_sse2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/upsampling.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/upsampling_mips_dsp_r2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/upsampling_msa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/upsampling_neon.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/upsampling_sse2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/upsampling_sse41.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/yuv.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/yuv_mips32.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/yuv_mips_dsp_r2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/yuv_neon.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/yuv_sse2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/dsp/yuv_sse41.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/alpha_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/analysis_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/backward_references_cost_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/backward_references_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/config_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/cost_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/filter_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/frame_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/histogram_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/iterator_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/near_lossless_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/picture_csp_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/picture_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/picture_psnr_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/picture_rescale_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/picture_tools_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/predictor_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/quant_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/syntax_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/token_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/tree_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/vp8l_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/enc/webp_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/mux/anim_encode.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/mux/muxedit.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/mux/muxinternal.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/mux/muxread.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/utils/bit_reader_utils.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/utils/bit_writer_utils.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/utils/color_cache_utils.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/utils/filters_utils.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/utils/huffman_encode_utils.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/utils/huffman_utils.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/utils/palette.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/utils/quant_levels_dec_utils.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/utils/quant_levels_utils.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/utils/random_utils.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/utils/rescaler_utils.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/utils/thread_utils.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/libwebp/src/utils/utils.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "WebPKit",
+      "moduleOutputPath" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/Modules/WebPKit.swiftmodule",
+      "objects" : [
+        "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPDecoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPDecoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPDecoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/Data+WebPDecoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/URL+WebPDecoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPEncoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPEncoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPEncoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+PixelFormat.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/nghiatran/Desktop/WebPKit/.build/checkouts/libwebp-Xcode/include",
+        "-module-cache-path",
+        "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/WebPKit-Swift.h",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "webpkit"
+      ],
+      "outputFileMapPath" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPDecoding.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPDecoding.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPDecoding.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/Data+WebPDecoding.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/URL+WebPDecoding.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPEncoding.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPEncoding.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPEncoding.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+PixelFormat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/Modules/WebPKit.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Core/CGImage+WebPDecoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/NSImage+WebPDecoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/UIImage+WebPDecoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/Data+WebPDecoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/URL+WebPDecoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Core/CGImage+WebPEncoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/NSImage+WebPEncoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/UIImage+WebPEncoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Utilities/CGImage+PixelFormat.swift"
+      ],
+      "tempsPath" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "WebPKit" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "WebPKit",
+      "-package-name",
+      "webpkit",
+      "-incremental",
+      "-c",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Core/CGImage+WebPDecoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/NSImage+WebPDecoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/UIImage+WebPDecoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/Data+WebPDecoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/URL+WebPDecoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Core/CGImage+WebPEncoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/NSImage+WebPEncoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/UIImage+WebPEncoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Utilities/CGImage+PixelFormat.swift",
+      "-I",
+      "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-Xcc",
+      "-fmodule-map-file=/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/libwebp.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/nghiatran/Desktop/WebPKit/.build/checkouts/libwebp-Xcode/include",
+      "-module-cache-path",
+      "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/WebPKit-Swift.h",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "webpkit",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "WebPKit" : [
+      "libwebp"
+    ],
+    "libwebp" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Core/CGImage+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/NSImage+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/UIImage+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/Data+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/URL+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Core/CGImage+WebPEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/NSImage+WebPEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/UIImage+WebPEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Utilities/CGImage+PixelFormat.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/sources"
+    },
+    "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

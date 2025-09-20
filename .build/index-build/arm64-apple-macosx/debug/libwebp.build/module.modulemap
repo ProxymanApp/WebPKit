@@ -1,0 +1,4 @@
+module libwebp {
+    umbrella "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/include"
+    export *
+}

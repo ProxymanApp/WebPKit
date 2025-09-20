@@ -1,0 +1,667 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.WebPKit-arm64-apple-macosx16.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/sources",
+      "importPath" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Core/CGImage+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/NSImage+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/UIImage+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/Data+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/URL+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Core/CGImage+WebPEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/NSImage+WebPEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/UIImage+WebPEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Utilities/CGImage+PixelFormat.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/Xcode/libwebp.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/include/sharpyuv/sharpyuv.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/include/webp/decode.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/include/webp/demux.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/include/webp/encode.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/include/webp/format_constants.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/include/webp/mux.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/include/webp/mux_types.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/include/webp/types.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/examples/anim_util.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/examples/example_util.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/examples/gifdec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/examples/stopwatch.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/examples/unicode.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/examples/unicode_gif.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/extras/extras.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/extras/sharpyuv_risk_table.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/extras/webp_to_sdl.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/imageio/image_dec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/imageio/image_enc.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/imageio/imageio_util.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/imageio/jpegdec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/imageio/metadata.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/imageio/pngdec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/imageio/pnmdec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/imageio/tiffdec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/imageio/webpdec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/imageio/wicdec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/sharpyuv/sharpyuv.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/sharpyuv/sharpyuv_cpu.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/sharpyuv/sharpyuv_csp.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/sharpyuv/sharpyuv_dsp.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/sharpyuv/sharpyuv_gamma.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dec/alphai_dec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dec/common_dec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dec/vp8_dec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dec/vp8i_dec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dec/vp8li_dec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dec/webpi_dec.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dsp/common_sse2.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dsp/common_sse41.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dsp/cpu.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dsp/dsp.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dsp/lossless.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dsp/lossless_common.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dsp/mips_macro.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dsp/msa_macro.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dsp/neon.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dsp/quant.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/dsp/yuv.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/enc/backward_references_enc.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/enc/cost_enc.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/enc/histogram_enc.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/enc/vp8i_enc.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/enc/vp8li_enc.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/mux/animi.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/mux/muxi.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/bit_reader_inl_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/bit_reader_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/bit_writer_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/color_cache_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/endian_inl_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/filters_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/huffman_encode_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/huffman_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/palette.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/quant_levels_dec_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/quant_levels_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/random_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/rescaler_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/thread_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/utils/utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/webp/decode.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/webp/demux.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/webp/encode.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/webp/format_constants.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/webp/mux.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/webp/mux_types.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/src/webp/types.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/tests/fuzzer/fuzz_utils.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/tests/fuzzer/img_alpha.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/tests/fuzzer/img_grid.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/libwebp/tests/fuzzer/img_peak.h"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "WebPKit",
+      "moduleOutputPath" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/Modules/WebPKit.swiftmodule",
+      "objects" : [
+        "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPDecoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPDecoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPDecoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/Data+WebPDecoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/URL+WebPDecoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPEncoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPEncoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPEncoding.swift.o",
+        "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/CGImage+PixelFormat.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/libwebp.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/include",
+        "-module-cache-path",
+        "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/WebPKit-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "webpkit"
+      ],
+      "outputFileMapPath" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/Modules/WebPKit.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Core/CGImage+WebPDecoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/NSImage+WebPDecoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/UIImage+WebPDecoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/Data+WebPDecoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/URL+WebPDecoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Core/CGImage+WebPEncoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/NSImage+WebPEncoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/UIImage+WebPEncoding.swift",
+        "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Utilities/CGImage+PixelFormat.swift"
+      ],
+      "tempsPath" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "WebPKit" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "WebPKit",
+      "-package-name",
+      "webpkit",
+      "-incremental",
+      "-c",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Core/CGImage+WebPDecoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/NSImage+WebPDecoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/UIImage+WebPDecoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/Data+WebPDecoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/URL+WebPDecoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Core/CGImage+WebPEncoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/NSImage+WebPEncoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/UIImage+WebPEncoding.swift",
+      "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Utilities/CGImage+PixelFormat.swift",
+      "-I",
+      "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-Xcc",
+      "-fmodule-map-file=/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/libwebp.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/nghiatran/Desktop/WebPKit/.build/index-build/checkouts/libwebp-Xcode/include",
+      "-module-cache-path",
+      "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/WebPKit-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "webpkit",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "WebPKit" : [
+      "libwebp"
+    ],
+    "libwebp" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Core/CGImage+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/NSImage+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/UIImage+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/Data+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/URL+WebPDecoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Core/CGImage+WebPEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/NSImage+WebPEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/UIImage+WebPEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Utilities/CGImage+PixelFormat.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/sources"
+    },
+    "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

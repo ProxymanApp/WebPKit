@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/master.swiftdeps"
+  },
+  "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Core/CGImage+WebPDecoding.swift": {
+    "dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPDecoding.d",
+    "object": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPDecoding.swift.o",
+    "swiftmodule": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPDecoding~partial.swiftmodule",
+    "swift-dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPDecoding.swiftdeps"
+  },
+  "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/NSImage+WebPDecoding.swift": {
+    "dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPDecoding.d",
+    "object": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPDecoding.swift.o",
+    "swiftmodule": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPDecoding~partial.swiftmodule",
+    "swift-dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPDecoding.swiftdeps"
+  },
+  "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/UIImage+WebPDecoding.swift": {
+    "dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPDecoding.d",
+    "object": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPDecoding.swift.o",
+    "swiftmodule": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPDecoding~partial.swiftmodule",
+    "swift-dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPDecoding.swiftdeps"
+  },
+  "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/Data+WebPDecoding.swift": {
+    "dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/Data+WebPDecoding.d",
+    "object": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/Data+WebPDecoding.swift.o",
+    "swiftmodule": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/Data+WebPDecoding~partial.swiftmodule",
+    "swift-dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/Data+WebPDecoding.swiftdeps"
+  },
+  "/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/URL+WebPDecoding.swift": {
+    "dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/URL+WebPDecoding.d",
+    "object": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/URL+WebPDecoding.swift.o",
+    "swiftmodule": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/URL+WebPDecoding~partial.swiftmodule",
+    "swift-dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/URL+WebPDecoding.swiftdeps"
+  },
+  "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Core/CGImage+WebPEncoding.swift": {
+    "dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPEncoding.d",
+    "object": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPEncoding.swift.o",
+    "swiftmodule": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPEncoding~partial.swiftmodule",
+    "swift-dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+WebPEncoding.swiftdeps"
+  },
+  "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/NSImage+WebPEncoding.swift": {
+    "dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPEncoding.d",
+    "object": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPEncoding.swift.o",
+    "swiftmodule": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPEncoding~partial.swiftmodule",
+    "swift-dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/NSImage+WebPEncoding.swiftdeps"
+  },
+  "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/UIImage+WebPEncoding.swift": {
+    "dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPEncoding.d",
+    "object": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPEncoding.swift.o",
+    "swiftmodule": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPEncoding~partial.swiftmodule",
+    "swift-dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/UIImage+WebPEncoding.swiftdeps"
+  },
+  "/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Utilities/CGImage+PixelFormat.swift": {
+    "dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+PixelFormat.d",
+    "object": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+PixelFormat.swift.o",
+    "swiftmodule": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+PixelFormat~partial.swiftmodule",
+    "swift-dependencies": "/Users/nghiatran/Desktop/WebPKit/.build/arm64-apple-macosx/debug/WebPKit.build/CGImage+PixelFormat.swiftdeps"
+  }
+}

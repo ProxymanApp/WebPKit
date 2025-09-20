@@ -1,0 +1,9 @@
+/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Core/CGImage+WebPDecoding.swift
+/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/NSImage+WebPDecoding.swift
+/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/UIImage+WebPDecoding.swift
+/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/Data+WebPDecoding.swift
+/Users/nghiatran/Desktop/WebPKit/WebPKit/Decoding/Utilities/URL+WebPDecoding.swift
+/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Core/CGImage+WebPEncoding.swift
+/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/NSImage+WebPEncoding.swift
+/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/UIImage+WebPEncoding.swift
+/Users/nghiatran/Desktop/WebPKit/WebPKit/Encoding/Utilities/CGImage+PixelFormat.swift

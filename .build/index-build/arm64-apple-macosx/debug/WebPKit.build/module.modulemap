@@ -1,0 +1,4 @@
+module WebPKit {
+    header "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/WebPKit.build/WebPKit-Swift.h"
+    requires objc
+}
