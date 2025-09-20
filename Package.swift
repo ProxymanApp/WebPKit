@@ -4,10 +4,8 @@ import PackageDescription
 let package = Package(
     name: "WebPKit",
     platforms: [
-        .iOS(.v12),
-        .macOS(.v10_13),
-        .watchOS(.v4),
-        .tvOS(.v12)
+        .iOS(.v16),
+        .macOS(.v12),
     ],
     products: [
         .library(

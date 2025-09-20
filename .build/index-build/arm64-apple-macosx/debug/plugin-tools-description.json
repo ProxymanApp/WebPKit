@@ -415,7 +415,7 @@
       ],
       "otherArguments" : [
         "-target",
-        "arm64-apple-macosx10.13",
+        "arm64-apple-macosx12.0",
         "-enable-batch-mode",
         "-index-store-path",
         "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/index/store",
@@ -524,7 +524,7 @@
       "-I",
       "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/Modules",
       "-target",
-      "arm64-apple-macosx10.13",
+      "arm64-apple-macosx12.0",
       "-enable-batch-mode",
       "-index-store-path",
       "/Users/nghiatran/Desktop/WebPKit/.build/index-build/arm64-apple-macosx/debug/index/store",
