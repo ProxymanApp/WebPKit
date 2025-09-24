@@ -26,6 +26,9 @@ let package = Package(
             path: "WebPKit",
             exclude: [
                 "Supporting"
+            ],
+            swiftSettings: [
+                .unsafeFlags(["-suppress-warnings"])
             ]
         )
     ]
